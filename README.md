@@ -18,7 +18,7 @@ Meu primeiro projeto inspirado no programa promovido pela Rocketseat para ensino
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/READMEEE.png" width="100%">
+  <img alt="projeto DevLinks" src="./github/READMEEE.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: 
+Feito com ♥ by Rocketseat :wave:
